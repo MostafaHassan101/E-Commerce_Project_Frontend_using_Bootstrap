@@ -172,3 +172,6 @@ textarea {
     font: bold !important;
 }
 }
+.dropdown-menu {
+  --bs-dropdown-min-width: 0 !important;
+ }

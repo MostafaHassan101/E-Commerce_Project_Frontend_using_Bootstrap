@@ -11,6 +11,7 @@
 #fixed-cart-section{
     position:fixed; z-index: 3;
      background-color: white;
+     bottom: 0;
 }
 .cart-button{
     background-color: #2B4CD7;
@@ -55,6 +56,6 @@
 /* .Favoite-button i{
 color: #AAB8C2; font-size: 2em;
 } */
-section{
+*{
     margin: 0 !important;
 }
